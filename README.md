@@ -1,0 +1,1 @@
+Napisz funkcję, która analizuje numer PESEL i wyciąga datę urodzenia oraz płećdanej osoby. Te dane są zwracane jako obiekt odpowiedniej (utworzonej) klasy. Przekazany do funkcji argument może być niepoprawny jako PESEL, też obsłuż takąsytuację (albo przez rzucenie stosownego wyjątku albo w inny sposób). https://pl.wikipedia.org/wiki/PESE
